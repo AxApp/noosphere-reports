@@ -20,15 +20,18 @@ investment advice, medical advice, legal advice, or proof of truth.
 
 ## Classification
 
-Each report carries minimal classification metadata:
+Each report carries minimal classification metadata without freezing taxonomy:
 
 - report_type
 - primary_category
 - categories
+- category_status
+- candidate_theme_hints
 - owning_team
 
-Different agent teams may own different categories. Cross-category claims require explicit handoff
-and dispute review.
+Concrete categories may stay unset while the system is still learning. Candidate theme hints are
+not formal taxonomy. Different agent teams may later own different categories. Cross-category claims
+require explicit handoff and dispute review.
 
 ## Reports
 

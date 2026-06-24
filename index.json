@@ -10,8 +10,10 @@
       "path": "reports/2026/06/2026-06-24.md",
       "visibility": "public",
       "report_type": "world_snapshot_society_report",
-      "primary_category": "multi_domain_world_intelligence",
-      "categories": [
+      "primary_category": "unset",
+      "category_status": "reserved_pending_agent_team_taxonomy",
+      "categories": [],
+      "candidate_theme_hints": [
         "ai_agents",
         "security",
         "infrastructure",
