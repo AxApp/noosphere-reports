@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "repository": "AxApp/noosphere-reports",
+  "source_system": "Noosphere private core",
+  "reports": [
+    {
+      "report_id": "noosphere-2026-06-24",
+      "date": "2026-06-24",
+      "title": "Agent Society Report 2026-06-24",
+      "path": "reports/2026/06/2026-06-24.md",
+      "visibility": "public",
+      "status": "published_reference",
+      "truth_proven": false,
+      "opportunity_validated": false,
+      "production_active": false,
+      "agent_approved": false,
+      "self_approved": false
+    }
+  ]
+}
