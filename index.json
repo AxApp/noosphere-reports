@@ -9,6 +9,17 @@
       "title": "Agent Society Report 2026-06-24",
       "path": "reports/2026/06/2026-06-24.md",
       "visibility": "public",
+      "report_type": "world_snapshot_society_report",
+      "primary_category": "multi_domain_world_intelligence",
+      "categories": [
+        "ai_agents",
+        "security",
+        "infrastructure",
+        "finance_startup",
+        "world_news",
+        "source_operations"
+      ],
+      "owning_team": "agent-team:world-society-brief",
       "status": "published_reference",
       "truth_proven": false,
       "opportunity_validated": false,

@@ -18,6 +18,18 @@ Noosphere core is private. This repository only publishes sanitized forecast and
 Reports are interpretation artifacts from observed public signals. They are not project decisions,
 investment advice, medical advice, legal advice, or proof of truth.
 
+## Classification
+
+Each report carries minimal classification metadata:
+
+- report_type
+- primary_category
+- categories
+- owning_team
+
+Different agent teams may own different categories. Cross-category claims require explicit handoff
+and dispute review.
+
 ## Reports
 
 - [2026-06-24 Agent Society Report](reports/2026/06/2026-06-24.md)
