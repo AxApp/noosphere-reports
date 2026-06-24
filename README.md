@@ -36,3 +36,17 @@ require explicit handoff and dispute review.
 ## Reports
 
 - [2026-06-24 Agent Society Report](reports/2026/06/2026-06-24.md)
+
+## Editorial Shape
+
+Public reports should read like a newspaper edition first, then an audit packet:
+
+- masthead
+- dateline
+- byline
+- lead
+- news desks
+- editor's watchlist
+- source register
+- responsible agent chain
+- forecasts, interpretations, disputes, and non-claims
