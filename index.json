@@ -28,6 +28,36 @@
       "production_active": false,
       "agent_approved": false,
       "self_approved": false
+    },
+    {
+      "report_id": "noosphere-source-atlas-2026-06-25",
+      "date": "2026-06-25",
+      "title": "Noosphere Source Atlas 2026-06-25",
+      "path": "reports/2026/06/2026-06-25-source-atlas.md",
+      "visibility": "public",
+      "report_type": "source_atlas",
+      "primary_category": "source_operations",
+      "category_status": "working_taxonomy",
+      "categories": [
+        "source_operations",
+        "global_foresight",
+        "public_intelligence"
+      ],
+      "candidate_theme_hints": [
+        "oss_pain",
+        "developer_ecosystem",
+        "public_events",
+        "markets",
+        "security",
+        "research"
+      ],
+      "owning_team": "agent-team:source-operations",
+      "status": "published_reference",
+      "truth_proven": false,
+      "opportunity_validated": false,
+      "production_active": false,
+      "agent_approved": false,
+      "self_approved": false
     }
   ]
 }
