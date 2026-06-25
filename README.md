@@ -36,8 +36,8 @@ require explicit handoff and dispute review.
 ## Reports
 
 - [2026-06-24 Agent Society Report](reports/2026/06/2026-06-24.md)
+- [2026-06-25 Agent Society Report](reports/2026/06/2026-06-25.md)
 - [2026-06-25 Noosphere Source Atlas](reports/2026/06/2026-06-25-source-atlas.md)
-- [2026-06-25 18:27 World Run Report](reports/2026/06/2026-06-25-1827-world-run.md)
 
 ## Editorial Shape
 

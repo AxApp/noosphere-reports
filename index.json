@@ -60,10 +60,10 @@
       "self_approved": false
     },
     {
-      "report_id": "noosphere-2026-06-25-1827-world-run",
+      "report_id": "noosphere-2026-06-25",
       "date": "2026-06-25",
-      "title": "Noosphere World Run Report 2026-06-25 18:27 CST",
-      "path": "reports/2026/06/2026-06-25-1827-world-run.md",
+      "title": "Agent Society Report 2026-06-25",
+      "path": "reports/2026/06/2026-06-25.md",
       "visibility": "public",
       "report_type": "world_snapshot_society_report",
       "primary_category": "unset",
@@ -72,6 +72,7 @@
       "candidate_theme_hints": [
         "ai_agents",
         "infrastructure",
+        "business",
         "world_news",
         "source_operations"
       ],
