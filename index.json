@@ -58,6 +58,30 @@
       "production_active": false,
       "agent_approved": false,
       "self_approved": false
+    },
+    {
+      "report_id": "noosphere-2026-06-25-1827-world-run",
+      "date": "2026-06-25",
+      "title": "Noosphere World Run Report 2026-06-25 18:27 CST",
+      "path": "reports/2026/06/2026-06-25-1827-world-run.md",
+      "visibility": "public",
+      "report_type": "world_snapshot_society_report",
+      "primary_category": "unset",
+      "category_status": "reserved_pending_agent_team_taxonomy",
+      "categories": [],
+      "candidate_theme_hints": [
+        "ai_agents",
+        "infrastructure",
+        "world_news",
+        "source_operations"
+      ],
+      "owning_team": "agent-team:world-society-brief",
+      "status": "published_reference",
+      "truth_proven": false,
+      "opportunity_validated": false,
+      "production_active": false,
+      "agent_approved": false,
+      "self_approved": false
     }
   ]
 }
